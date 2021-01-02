@@ -1,0 +1,4 @@
+/* Code tidied up by ScrapBook */
+.jcarousel { position: relative; overflow: hidden; }
+.jcarousel ul { width: 10000em; position: relative; list-style: outside none none; margin: 0px; padding: 0px; }
+.jcarousel li { float: left; }
